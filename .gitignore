@@ -217,3 +217,4 @@ pyrightconfig.json
 # 특정 폴더 제외
 */yang/data
 */yang/temp
+*/shin/data
