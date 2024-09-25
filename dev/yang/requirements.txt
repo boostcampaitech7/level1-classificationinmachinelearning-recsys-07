@@ -55,7 +55,7 @@ pyparsing==3.1.4
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
 pytz==2024.2
 pyzmq @ file:///croot/pyzmq_1705605076900/work
-scikit-learn==1.5.2
+scikit-learn
 scipy==1.13.1
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
@@ -75,3 +75,4 @@ xgboost==2.1.1
 zipp==3.20.2
 Boruta
 seaborn
+pycaret
