@@ -1,5 +1,10 @@
 # README
 
+## 비트코인 상승/하락 시계열 분류 예측
+### 비트코인 네트워크 데이터, 시장 데이터를 이용하여 다음 시점에 등하락을 예측
+
+### 파일 구성
+
 - self1.ipynb : windowslicing 후 noise 추가
 - ensemble.ipynb : ensemble한 코드 파일
 - self2.ipynb : feature 생성, windowslicng, noise 추가, time warping
