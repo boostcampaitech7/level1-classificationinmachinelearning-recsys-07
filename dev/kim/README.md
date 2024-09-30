@@ -2,7 +2,7 @@
 
 동일한 데이터셋을 가지고 LSTM 단독 모델을 사용한 것과 GRU, 1D CNN과의 앙상블 모델을 사용한 것을 비교해보았다. 모델 선택은 여러 비트코인 딥러닝 관련 논문들이 가장 많이 사용하는 모델을 골라 사용해보았다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/14688a25-5901-4398-a3cf-a035597c02fb/dffa1111-ba59-4912-97f7-0394c088a9b3/image.png)
+![code](https://github.com/boostcampaitech7/level1-classificationinmachinelearning-recsys-07/blob/main/dev/kim/code.png)
 
 ### **앙상블 학습에 대한 이유**
 
@@ -40,9 +40,9 @@
 
 ## 최종 결과
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/14688a25-5901-4398-a3cf-a035597c02fb/0e537122-7c20-470e-ad93-e6e81830ef2a/image.png)
+![lstm](https://github.com/boostcampaitech7/level1-classificationinmachinelearning-recsys-07/blob/main/dev/kim/lstm.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/14688a25-5901-4398-a3cf-a035597c02fb/82b4a363-575b-4492-824b-8ba68346da63/image.png)
+![ensemble](https://github.com/boostcampaitech7/level1-classificationinmachinelearning-recsys-07/blob/main/dev/kim/ensemble.png)
 
 앙상블 학습의 accuracy가 더 높은 것을 확인할 수 있었다.
 
