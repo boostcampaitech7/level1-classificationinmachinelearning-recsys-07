@@ -8,7 +8,7 @@ lstm > lstm.ipynb
 최종
 -0.3873
 
-
+***
 앙상블 테스트 > Untitled14.ipynb
 
 중간 리더보드
