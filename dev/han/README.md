@@ -1,8 +1,10 @@
 # README
 
-xgb
-randomforest
-ensemble
+XGB
+
+RF(random forest)
+
+Ensemble
 
 
 
